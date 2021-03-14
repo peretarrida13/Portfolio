@@ -1,5 +1,4 @@
 import React from 'react';
-import Menu from './Menu';
 import {Link} from 'react-router-dom';
 import {AiOutlineInstagram, AiOutlineLinkedin} from 'react-icons/ai';
 import {FiTwitter, FiGithub} from 'react-icons/fi';

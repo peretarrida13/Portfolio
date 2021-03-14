@@ -1,5 +1,4 @@
 import React from 'react';
-import Menu from './Menu';
 import SingleProject from './SingleProject';
 
 const url = 'https://api.github.com/users/peretarrida13/repos';

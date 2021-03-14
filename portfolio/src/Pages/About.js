@@ -1,6 +1,4 @@
 import React from 'react';
-import Menu from './Menu';
-import { BsArrowRight } from 'react-icons/bs'; 
 
 const About = () =>{
     return(
