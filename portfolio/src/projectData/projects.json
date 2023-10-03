@@ -1,0 +1,49 @@
+[
+    {
+      "title": "Netflix Clone",
+      "description": "Netflix Main Page Clone",
+      "image": "/projectImages/netflixMP.png",
+      "image2": "/projectImages/netflixLogo.png",
+      "body": "In this project I created a Clone of netflix main page which I started during the 2020 summer and finished in winter.\nThis was the project that helped me lay the foundations of React js and other languages ​​such as CSS and HTML, it was a summer project recommended by several friends from the university, with which I learned a lot and had a great time \n Thanks to this project also learn how to fetch data from APIs and how useful they are.",
+      "technologies": ["JavaScript", "ReactJS", "Axios", "HTML", "CSS"],
+      "github": "https://github.com/peretarrida13/netflix-main-page",
+      "deployed": "https://inspiring-leakey-d9ca25.netlify.app/",
+      "bgcolor": "var(--hl2-color)",
+      "id": "1"
+    },
+    {
+      "title": "Covid Tracker",
+      "description": "Covid Tracker with world map",
+      "image": "/projectImages/covidMP.png",
+      "image2": "/projectImages/covid.jpeg",
+      "technologies": ["JavaScript", "ReactJS", "HTML", "CSS", "Leaflet"],
+      "body": "Picture this it’s 2020. I just learned about web development and React Js and suddenly COVID-19 strikes, you spend all day in front of the computer for your College assignment and every time you enter Github another COVID tracker pops up. \n Thanks to this I decided to test my abilities and created this webpage which I couldn’t finish due to lack of time even though the main objective was to work with maps and APIs was successful.\nPD: sometimes data doesn’t show on the map because the API is not maintained anymore.",
+      "github": "https://github.com/peretarrida13/CovidTracker",
+      "deployed": "https://gallant-swirles-353715.netlify.app/",
+      "bgcolor": "var(--hl-color)",
+      "id": "2"
+    },
+    {
+      "title": "Calculator",
+      "description": "First app",
+      "image": "/projectImages/calculator.png",
+      "image2": "/projectImages/calculator.jpeg",
+      "technologies": ["JavaScript", "React Native"],
+      "body": "After a whole year of coding websites, I decided to jump into the App world, so coming from ReactJs the obvious I chose the React Native framework after searching what a good first project I decided to do a Calculator.\n After deciding on the project I started Coding and was ready to start my App development project.\nThanks to this project I feel confident to develop nice apps that are able to run on IOS and Android phones.",
+      "github": "https://github.com/peretarrida13/MyCalculator",
+      "bgcolor": "#6c4bf4",
+      "id": "3"
+    },
+    {
+      "title": "Spanner App",
+      "description": "My Start Up",
+      "image": "/projectImages/Home.png",
+      "image2": "/projectImages/logo.png",
+      "technologies": ["JavaScript", "HTML", "CSS", "React Native", "Express", "MongoDB", "Node", "Mongoose"],
+      "body": "I was hanging out with my group of friends and we were talking about starting a company together more specifically a Start-Up, and we came up with this App idea.\nI am the only Computer Science student in the group so I coded the entire app. The app is finished and we are making all the paperwork necessary for the app to drop legally and be able to handle transactions.\n Thanks to this project I've been able to learn a lot about App development and UX. Taking my skills one step further.\nLet’s see how the project evolves",
+      "github": "https://github.com/peretarrida13/Spanner_APP",
+      "deployed": "https://github.com/peretarrida13/Spanner-WEB",
+      "bgcolor": "#f85781",
+      "id": "4"
+    }
+  ]
