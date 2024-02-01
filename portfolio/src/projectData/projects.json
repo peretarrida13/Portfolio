@@ -1,4 +1,17 @@
 [
+  {
+    "title": "Winner Performance",
+    "description": "Data Representation and Analisys using Whoop data",
+    "image": "/projectImages/whoopMP.png",
+    "image2": "/projectImages/whoop.png",
+    "body": "Leveraging the capabilities of the WHOOP device and its accompanying application for over a year has provided me with a profound understanding of its potential and the areas ripe for enhancement. In a pursuit to transcend the conventional functionalities, I have harnessed the WHOOP API to architect a web platform that offers innovative interpretations and applications of the data collected. This platform introduces a bespoke scoring system, designed to offer a nuanced alternative to the traditional strain metric. It presents a unique visualisation - a detailed anatomical map highlighting potential areas of soreness, thus providing a more intuitive understanding of physical state post-exercise. Moreover, the site generates personalized reports summarizing the last ten activities, offering users a comprehensive overview of their performance trends and recovery needs. A pivotal feature of this web-based tool is its predictive capability regarding potential illness, employing threshold values to alert users to signs of physical downturn before they manifest into significant health issues. This bespoke approach not only enhances the user experience but also pushes the boundaries of proactive health monitoring. This endeavor represents a sophisticated augmentation of the WHOOP ecosystem, crafted to empower users with more personalized insights and a deeper connection to their physical well-being.",
+    "technologies": ["JavaScript", "ReactJS", "Fetch", "Material UI", "Express", "MongoDB", "NodeJS", "HTML", "CSS"],
+    "github": "https://github.com/peretarrida13/WHOOP_PROJECT",
+    "deployed": "https://www.winnerperformance.com/",
+    "bgcolor": "var(--hl2-color)",
+    "id": "5"
+  },
+ 
     {
       "title": "Netflix Clone",
       "description": "Netflix Main Page Clone",
