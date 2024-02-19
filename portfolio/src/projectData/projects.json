@@ -68,6 +68,6 @@
       "body": "Simple Chat App with whole functionalities: Log In with encripted password, Instant Mesages, pending messages and read functionality. Cool way to learn the basics of WebSockets and how to use them in a real project. \nI also learned how to use JWT and how to use it to authenticate users in a secure way. \nI also learned how to use Kotlin and Springboot to create a backend for the app.",
       "github": "https://github.com/peretarrida13?tab=repositories&q=chat&type=&language=&sort=",
       "bgcolor": "#f857dd",
-      "id": "5"
+      "id": "6"
     }
   ]
