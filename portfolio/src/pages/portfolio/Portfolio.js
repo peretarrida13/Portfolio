@@ -17,7 +17,7 @@ const Portfolio = () => {
         {/* Display the page header */}
         <PageHeader title="Portfolio" description="View my work" />
 
-        <div className="row">
+        <div className="row" style={{marginLeft:50}}>
           {/* Display the list of projects */}
           <ProjectList />
         </div>
