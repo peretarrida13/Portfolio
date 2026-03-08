@@ -13,7 +13,7 @@ function App() {
   const personalDetails = {
     name: 'Pere Tarrida Domingo',
     location: "Rotterdam, Netherlands",
-    email: "pere.tarrida@gmail.com",
+    email: "pere13.tarrida@gmail.com",
     brand: "Software Engineer based in Rotterdam, working at Lunatech on distributed systems for Volkswagen Group and Porsche. Experienced in Scala, Akka, and full-stack web development. Passionate about technology, team sports, and Formula One."
   }
 
