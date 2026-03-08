@@ -12,9 +12,9 @@ import ProjectDetails from "./pages/portfolio/[project]/ProjectDetails";
 function App() {
   const personalDetails = {
     name: 'Pere Tarrida Domingo',
-    location: "Catalonia, Spain",
-    email: "pere.tarrida@estudiantat.upc.edu",
-    brand: "insightful computer science student who excels at JavaScript and C++. I Will finish my Senior year in June. I am also self-taught in Javascript and I helped with some open-source projects and made some projects for different hackathons. I'm quietly confident, naturally curious, and perpetually working on improving my abilities, and always open to learning new things."
+    location: "Rotterdam, Netherlands",
+    email: "pere.tarrida@gmail.com",
+    brand: "Software Engineer based in Rotterdam, working at Lunatech on distributed systems for Volkswagen Group and Porsche. Experienced in Scala, Akka, and full-stack web development. Passionate about technology, team sports, and Formula One."
   }
 
   return(
